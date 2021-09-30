@@ -1,0 +1,102 @@
+#menu-logo{
+    display: flex;
+    align-items: center;
+    padding: 2%;
+}
+
+#menu-navigation{
+    font-size: small;
+}
+
+#menu-top{
+    color: rgb(68, 7, 124);
+}
+
+#menu-navigation:hover{
+    color: orange;
+}
+
+#menu-bottom{
+    font-size: smaller;
+}
+
+#destaque{
+    margin: 20px 115px;
+    color: rgb(68, 7, 124);
+}
+
+.nav-link{
+    color: rgb(68, 7, 124);
+}
+
+.cartao{
+    color: rgb(68, 7, 124);
+}
+
+.botao{
+    border: 1px solid rgb(68, 7, 124);
+    background-color: rgb(68, 7, 124);
+    color:orange;
+    width: 180px;
+    height: 40px;
+}
+
+.espacamento{
+    margin: 15px;
+}
+
+.titulo-espacamento{
+    margin: 100px 0px;
+}
+
+.distancia{
+    margin-top: 50px 0px;
+}
+
+.menu-buttom{
+    border-bottom: 1px solid rgb(68, 7, 124);
+}
+
+.menu-buttom:hover{
+    border: 1px solid gray;
+    background-color: gray;
+    color:white
+}
+
+.rodape{
+    background-color: rgb(68, 7, 124);
+    padding:30px 150px;
+}
+
+.tamanho-rodape{
+    font-size: smaller;
+    color: orange;
+}
+
+p{
+    color: orange;
+    margin:5px 50px;
+}
+
+p:hover{
+    color: rgb(146, 99, 11);
+}
+
+p a{
+    color: orange;
+    text-decoration: none;;
+}
+
+p a:hover{
+    color: rgb(146, 99, 11);
+}
+
+hr{
+    color: rgb(119, 67, 167);
+}
+
+.coluna-logo{
+    display: flex;
+    align-items: center;
+}
+
