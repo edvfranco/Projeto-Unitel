@@ -1,8 +1,12 @@
+
+
 #menu-logo{
     display: flex;
     align-items: center;
     padding: 2%;
 }
+
+
 
 #menu-navigation{
     font-size: small;
@@ -15,6 +19,9 @@
 #menu-navigation:hover{
     color: orange;
 }
+
+
+
 
 #menu-bottom{
     font-size: smaller;
@@ -92,11 +99,82 @@ p a:hover{
 }
 
 hr{
-    color: rgb(119, 67, 167);
+    color: rgb(187, 168, 204);
 }
 
 .coluna-logo{
     display: flex;
     align-items: center;
 }
+
+
+i{
+    display: flex;
+    align-items: center;
+    color:red;
+    font-size: 50px;
+}
+
+/*
+.procurar{
+    
+    padding: 30px;
+    color: rgb(68, 7, 124)
+}
+
+*/
+
+.retira-espaco {
+    
+    margin: 0;
+}
+
+#nav-extra {
+    
+    padding: 20px 20px;
+    background-color: #F47921;
+}
+
+
+
+
+
+#menu ul ul {
+
+    display: none;
+    justify-content: center;
+  
+
+
+}
+
+
+#menu ul a:hover > ul.sub-menu  {
+
+    display: flex ;
+    background-color:rgb(194, 18, 18);
+ 
+   
+}
+
+
+i{
+    color: white;
+    justify-content: center;
+}
+
+h5{
+    font-size: 13px;
+    padding-top: 20px;
+    display: flex
+    justify-content: center;
+    color: #fff;
+}
+
+
+#outracor:hover{
+
+    color: rgb(187, 168, 204);
+}
+
 
